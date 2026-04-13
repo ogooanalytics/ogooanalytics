@@ -18,7 +18,15 @@ process handling time by 20%.
 
 ## Technical Skills
 #### Data Analysis & visualization
-* Excel * Power BI * Python * SPSS * SQL * Data
-#### Automation
-Office & Productivity Tools
-* Word * PowerPoint * Excel * Access
+* Excel
+* Power BI
+* Python
+* SPSS
+* SQL
+* Data Automation
+  
+#### Office & Productivity Tools
+* Word
+* PowerPoint
+* Excel
+* Access
